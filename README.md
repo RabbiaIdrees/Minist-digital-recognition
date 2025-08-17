@@ -40,10 +40,6 @@ This project uses the MNIST dataset of handwritten digits to build a machine lea
 * The CNN model successfully classifies digits with a test accuracy of **98.47%**.
 * The app allows users to draw digits on a canvas, and the model will predict the digit in real-time.
 
-### Future Improvements:
-
-* Experimenting with deeper architectures or other optimization techniques to improve the accuracy.
-* Extending the app with additional features such as digit enhancement or noise reduction.
 
 ### Requirements:
 
