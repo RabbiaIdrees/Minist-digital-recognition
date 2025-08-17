@@ -1,7 +1,3 @@
-# Minist-digital-recognition
-Here’s a possible GitHub description for your MNIST digit recognition project based on your script:
-
----
 
 ## MNIST Handwritten Digit Recognition
 
